@@ -1,0 +1,20 @@
+[Desktop Entry]
+DefaultProfile=arcolinux.profile
+
+[Favorite Profiles]
+Favorites=
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
+[MainWindow]
+Height 1080=574
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAxcAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1920=821
+eDP1 Height 1366x768=643
+eDP1 Width 1366x768=917
+eDP1 XPosition 1366x768=429
+eDP1 YPosition 1366x768=98
