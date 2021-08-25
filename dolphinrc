@@ -1,0 +1,38 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+GlobalViewProps=false
+Version=201
+ViewPropsTimestamp=2021,8,16,2,14,58.343
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+eDP1 Height 1366x768=664
+eDP1 Width 1366x768=494
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACuPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAsAAACuAAAAE4A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAEmgAAArgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP1 Height 1366x768=480
+eDP1 Width 1366x768=910
+eDP1 Window-Maximized 1366x768=true
+eDP1 XPosition 1366x768=456
+eDP1 YPosition 1366x768=32
+
+[Open-with settings]
+CompletionMode=1
+History=gean,ap,dead,bak,baka
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
+
+[SettingsDialog]
+eDP1 Height 1366x768=556
+eDP1 Width 1366x768=861
