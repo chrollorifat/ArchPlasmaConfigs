@@ -7,5 +7,6 @@ Kvantum
 Kitty
 Alacritty
 Dolphin
+mpv
 
 
