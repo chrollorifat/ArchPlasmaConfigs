@@ -5,6 +5,11 @@
 #installation via script from github
 #export ZSH="/home/$USER/.oh-my-zsh"
 #installation via paru -S oh-my-zsh-git
+
+#auto completion plugin
+#source ~/Git/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+#auto completion plugin
+
 export ZSH=/usr/share/oh-my-zsh/
 
 # Set name of the theme to load --- if set to "random", it will
@@ -12,7 +17,7 @@ export ZSH=/usr/share/oh-my-zsh/
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # if you installed the package oh-my-zsh-powerline-theme-git then you type here "powerline" as zsh theme
-ZSH_THEME="candy-kingdom"
+ZSH_THEME="agnoster" # set by `omz`
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -75,6 +80,7 @@ ZSH_THEME="candy-kingdom"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
+
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
@@ -381,7 +387,4 @@ alias ytv-best="youtube-dl -f bestvideo+bestaudio --all-subs --embed-subs "
 # install lolcat
 #sfetch | lolcat
 
-
-
-
-eval "$(starship init zsh)"
+#eval "$(starship init zsh)"
