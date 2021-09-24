@@ -1,0 +1,8 @@
+copy the mpv folder to your etc directory. 
+or, copy the files inside this mpv folder to your etc/mpv directory.
+unzip the fonts in the same directory
+Don't use the flatpak version. This is not the directory for the flatpak version.
+etc/mpv is not the directory for the flatpak version. 
+I don't even know where the directory for flatpak version exactly is.
+But if you find it, you can copy the files inside this mpv folder to the flatpak directory.
+Have fun.
