@@ -1,4 +1,3 @@
-#
 # ~/.bashrc
 ###Oh-my-bash included###
 # Path to your oh-my-bash installation.
