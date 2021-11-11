@@ -178,9 +178,12 @@ alias userlist="cut -d: -f1 /etc/passwd"
 #merge new settings
 alias merge="xrdb -merge ~/.Xresources"
 
-# Aliases for software managment
+## Aliases for software managment
+#colored neofetch
+alias neofetch='neofetch'
+
 # pacman or pm
-alias pacman='sudo pacman --color auto'
+alias pacman='sudo pacman --color=auto'
 alias update='sudo pacman -Syyu'
 alias pac-upgrade='sudo pacman -Syu'
 alias install='sudo pacman -Sy'
@@ -397,7 +400,7 @@ alias ytv-best="youtube-dl -f bestvideo+bestaudio --all-subs --embed-subs "
 #alsi
 #paleofetch
 #fetch
-#hfetch
+#hfetch | lolcat
 #sfetch
 #ufetch
 #ufetch-arco
@@ -408,3 +411,5 @@ alias ytv-best="youtube-dl -f bestvideo+bestaudio --all-subs --embed-subs "
 
 ##starship prompt##
 #eval "$(starship init zsh)"
+
+#colorscript random
